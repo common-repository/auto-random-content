@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AutoRandomContent 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Last-Translator: BARONI MARCO <baroni.marco.91@gmail.com>\n"
+"Language-Team: BARONI MARCO <baroni.marco.91@gmail.com>\n"
+
+msgid "Auto Random Content"
+msgstr "Auto Random Content"
+
+msgid "Create Random Content"
+msgstr "Create Random Content"
+
+msgid "Delete Random Content Created!"
+msgstr "Delete Random Content Created!"
+
+msgid "Auto Random Content - Settings"
+msgstr "Auto Random Content - Settings"
+
+msgid "Set information about the randomize content:"
+msgstr "Set information about the randomize content:"
+
+msgid "Create Automatic Content"
+msgstr "Create Automatic Content"
+
+msgid "Number of Random post must be created"
+msgstr "Number of Random post must be created"
+
+msgid "Post Type"
+msgstr "Post Type"
+
+msgid "Generating content ..."
+msgstr "Generating content ..."
+
+msgid "Deleting content ..."
+msgstr "Deleting content ..."
+
+msgid "Content generation completed!"
+msgstr "Content generation completed!"
+
+msgid "Content cancellation completed!"
+msgstr "Content cancellation completed!"
+
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Relate Thumb"
+msgstr "Relate Thumb"
+
+msgid "Relate Term"
+msgstr "Relate Term"
+
+msgid "Terms Taxonomy"
+msgstr "Terms Taxonomy"
+
+msgid "Relate Comment"
+msgstr "Relate Comment"
+
+msgid "If this is checked the procedure generate and assign one thumb at every post created."
+msgstr "If this is checked the procedure generate and assign one thumb at every post created."
+
+msgid "The term's taxonomy. Example: Category"
+msgstr "The term's taxonomy. Example: Category"
+
+msgid "If this is checked the procedure assign a term at every post created.<br>The procedure generate terms too."
+msgstr "If this is checked the procedure assign a term at every post created.<br>The procedure generate terms too."
+
+msgid "If this is checked the procedure generate some comments at every post created.<br>The procedure generate Users too."
+msgstr "If this is checked the procedure generate some comments at every post created.<br>The procedure generate Users too."
+
+msgid "Max number of posts created at one time is 20."
+msgstr "Max number of posts created at one time is 20."
